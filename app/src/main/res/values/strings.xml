@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android Shop App</string>
+    <string name="intro_first_line">The Easy shopping solution</string>
+    <string name="intro_second_line">Shop is in your hand now!!!</string>
+    <string name="btn_login">User Login here</string>
+    <string name="btn_user_signup">New User? Register here</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_phone">Enter phone</string>
+    <string name="enter_address">Enter address</string>
+    <string name="enter_password">Enter password</string>
+    <string name="user_login">USER LOGIN</string>
+</resources>
